@@ -1,11 +1,2 @@
 export 'package:flutter/material.dart';
-export 'package:food_met/pages/bebidas_page.dart';
-export 'package:food_met/pages/calculadora_page.dart';
-export 'package:food_met/pages/404_page.dart';
-export 'package:food_met/pages/entradas_page.dart';
-export 'package:food_met/pages/home_page.dart';
-export 'package:food_met/pages/listaProductos_page.dart';
-export 'package:food_met/pages/platoFuerte_page.dart';
-export 'package:food_met/pages/postres_page.dart';
-export 'package:food_met/pages/product_page.dart';
-export 'package:food_met/splash.dart';
+export 'package:food_met/pages/splash.dart';
